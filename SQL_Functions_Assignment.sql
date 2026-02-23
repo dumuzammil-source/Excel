@@ -1,6 +1,5 @@
 
--- SQL Functions Assignment — Full Execution File
--- Includes: CREATE TABLE + INSERT DATA + ALL ANSWERS
+-- SQL Functions Assignment — 
 
 -- ===============================
 -- CREATE TABLE
