@@ -1,7 +1,5 @@
 
--- Advanced SQL Assignment — Full Execution File
--- Includes: CREATE TABLE + INSERT DATA + ALL ANSWERS
-
+-- Advanced SQL Assignment — 
 -- ===============================
 -- DATASET (Products & Sales)
 -- ===============================
